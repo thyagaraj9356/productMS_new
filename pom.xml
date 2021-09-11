@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.infosys.infymini.user</groupId>
-	<artifactId>UserMS</artifactId>
+	<groupId>com.infosys.infymini.product</groupId>
+	<artifactId>ProductMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>User-Microservice</name>
-	<description>InfyMini User Microservice</description>
+	<name>Product-Microservice</name>
+	<description>InfyMini Product Microservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
